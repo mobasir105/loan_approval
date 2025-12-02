@@ -1,7 +1,6 @@
 # loan_approval
 
-https://www.kaggle.com/code/shayanzk/loan-approval-prediction
-
+https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset/data
 
 # Loan Approval Prediction Report
 
