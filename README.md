@@ -1,5 +1,8 @@
 # loan_approval
 
+https://www.kaggle.com/code/shayanzk/loan-approval-prediction
+
+
 # Loan Approval Prediction Report
 
 ## Introduction
